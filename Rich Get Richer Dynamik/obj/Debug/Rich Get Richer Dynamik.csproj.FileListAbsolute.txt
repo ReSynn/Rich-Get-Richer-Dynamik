@@ -1,0 +1,13 @@
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\bin\Debug\Rich Get Richer Dynamik.exe.config
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\bin\Debug\Rich Get Richer Dynamik.exe
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\bin\Debug\Rich Get Richer Dynamik.pdb
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.csprojResolveAssemblyReference.cache
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\MainWindow.baml
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\MainWindow.g.cs
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\App.g.cs
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik_MarkupCompile.cache
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.g.resources
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich_Get_Richer_Dynamik.Properties.Resources.resources
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.csproj.GenerateResource.Cache
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.exe
+S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.pdb
