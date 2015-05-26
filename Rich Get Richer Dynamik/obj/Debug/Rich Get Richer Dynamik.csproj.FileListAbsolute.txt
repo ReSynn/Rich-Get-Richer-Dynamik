@@ -11,3 +11,16 @@ S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\D
 S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.csproj.GenerateResource.Cache
 S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.exe
 S:\Studium\VS2013\Projects\Rich Get Richer Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.pdb
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\bin\Debug\Rich Get Richer Dynamik.exe.config
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.exe
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.pdb
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\bin\Debug\Rich Get Richer Dynamik.exe
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\bin\Debug\Rich Get Richer Dynamik.pdb
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.csprojResolveAssemblyReference.cache
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\MainWindow.baml
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\MainWindow.g.cs
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\App.g.cs
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik_MarkupCompile.cache
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.g.resources
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich_Get_Richer_Dynamik.Properties.Resources.resources
+C:\Studium\VS2013\Projects\Rich-Get-Richer Dynamik\Rich-Get-Richer-Dynamik\Rich Get Richer Dynamik\obj\Debug\Rich Get Richer Dynamik.csproj.GenerateResource.Cache

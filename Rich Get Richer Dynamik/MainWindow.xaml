@@ -1,7 +1,8 @@
 ﻿<Window x:Class="Rich_Get_Richer_Dynamik.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Rich Get Richer Dynamik" Height="1030" Width="510" ResizeMode="NoResize">
+        Title="Rich Get Richer Dynamik" Height="1030" Width="510">
+    <ScrollViewer>
     <Grid Margin="0,0,2,10">
         <Rectangle Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="72" Margin="10,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="477"/>
         <Label x:Name="lblIniPool" Content="Initial Pool:" HorizontalAlignment="Left" Margin="10,17,0,0" VerticalAlignment="Top" Width="90" FontFamily="Calibri" FontSize="14"/>
@@ -58,4 +59,5 @@
         <Label x:Name="lblp" Content="p" HorizontalAlignment="Left" Margin="206,921,0,0" VerticalAlignment="Top" Width="20" FontFamily="Myriad Pro" FontSize="14" RenderTransformOrigin="1.8,0.593" Height="34"/>
         <TextBox x:Name="txtboxp" HorizontalAlignment="Left" Height="23" Margin="242,921,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="33" TextAlignment="Center" FontFamily="Calibri" BorderThickness="1" FontSize="16"/>
     </Grid>
+    </ScrollViewer>
 </Window>
