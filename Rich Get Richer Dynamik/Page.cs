@@ -58,7 +58,7 @@ namespace Rich_Get_Richer_Dynamik
 
         public void CalcNewProb()
         {
-            mdProb = Math.Round((double)miInlinks / MainWindow.AllPages.Count, 2);
+            mdProb = Math.Round((double)miInlinks / MainWindow.AllPages.Count, 6);
         }
 
         public void IncrementInlinks()

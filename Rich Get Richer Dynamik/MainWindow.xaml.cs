@@ -95,7 +95,6 @@ namespace Rich_Get_Richer_Dynamik
             txtboxp.Clear();
         }
 
-
         public void CalcP()
         {
             if (sP == "9/10")
@@ -115,11 +114,10 @@ namespace Rich_Get_Richer_Dynamik
 
             if(sP == "1/N")
             {
-                P = (double)1 / AllPages.Count;
+                P = Math.Round((double)1 / AllPages.Count, 6);
             }
             txtboxp.Text = P.ToString();
         }
-
 
         public void setStartValues() 
         {
@@ -168,7 +166,6 @@ namespace Rich_Get_Richer_Dynamik
             }
         }
 
-
         public void FillAllTextBoxes(Page p)
         {
             FillDecisionTextBox(p);
@@ -184,8 +181,6 @@ namespace Rich_Get_Richer_Dynamik
             txtboxInlinks.Clear();
             txtboxqofSite.Clear();
         }
-
-
 
         #region TextBoxesFilling
         public void FillDecisionTextBox(Page a)
@@ -246,6 +241,5 @@ namespace Rich_Get_Richer_Dynamik
             txtboxqofSite.Text += "q von Page " + sPageNumber + ":    " + sProb + " \n";
         }
         #endregion
-
     }
 }

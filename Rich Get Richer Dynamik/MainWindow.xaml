@@ -57,7 +57,7 @@
         <TextBox x:Name="txtboxCopyDecs" HorizontalAlignment="Left" Height="23" Margin="437,885,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" TextAlignment="Center" FontFamily="Calibri" FontSize="16"/>
         <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="10,963,0,0" VerticalAlignment="Top" Width="477" RenderTransformOrigin="-2.28,1.636" FontFamily="Calibri" FontSize="14" Height="21" FontWeight="Bold" Click="btnClear_Click"/>
         <Label x:Name="lblp" Content="p" HorizontalAlignment="Left" Margin="206,921,0,0" VerticalAlignment="Top" Width="20" FontFamily="Myriad Pro" FontSize="14" RenderTransformOrigin="1.8,0.593" Height="34"/>
-        <TextBox x:Name="txtboxp" HorizontalAlignment="Left" Height="23" Margin="242,921,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="33" TextAlignment="Center" FontFamily="Calibri" BorderThickness="1" FontSize="16"/>
+        <TextBox x:Name="txtboxp" HorizontalAlignment="Left" Height="23" Margin="242,921,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" TextAlignment="Center" FontFamily="Calibri" BorderThickness="1" FontSize="16"/>
     </Grid>
     </ScrollViewer>
 </Window>
